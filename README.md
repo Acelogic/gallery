@@ -50,7 +50,7 @@ There are two important pieces to gallery:
 Once you've created your `config.json`, the website can now use that file to figure out which photos to show. It uses JavaScript(ES6🔥!) to layout your photos, grouping all of the photos per album.
 
 ## Customizing your Gallery
-Gallery supports 3 different kinds of layouts: rows, squares and columns. You can choose which type of layout you want to use by setting the `layout` variable in `script.js` to be either `SQUARES`, `ROWS` or `COLUMNS`.
+Gallery supports 3 different kinds of layouts: rows, squares and columns. You can choose which type of layout you want to use by setting the `layout` variable in `_config.yml` to be either `SQUARES`, `ROWS` or `COLUMNS`.
 
 Each different layout has both its own and shared set of configuration options.
 
